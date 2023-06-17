@@ -1,5 +1,8 @@
 # Zomato-Bangalore-Restaurants-Data-Analysis
-Welcome to the README file for the Exploratory Data Analysis (EDA) project on the Zomato Companies Bangalore Restaurants dataset. This repository contains the code and documentation related to conducting EDA on the dataset to determine the best location and type of hotel to construct, as well as the cuisines that can be served. In this README, we will provide an overview of the project, explain the purpose of EDA, and provide instructions on how to run and use the code.![image](https://github.com/Rohith766/Zomato-Bangalore-Restaurants-Data-Analysis/assets/92597090/35c391c6-c591-40a4-940d-b69993afce20)
+Welcome to the README file for the Exploratory Data Analysis (EDA) project on the Zomato Companies Bangalore Restaurants dataset. This repository contains the code and documentation related to conducting EDA on the dataset to determine the best location and type of hotel to construct, as well as the cuisines that can be served. In this README, we will provide an overview of the project, explain the purpose of EDA, and provide instructions on how to run and use the code.
+<a href="https://rohith766.github.io/Zomato-Bangalore-Restaurants-Data-Analysis/" target="_blank">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/92597090/246614544-0c77db3a-65b7-4772-ac63-f3dc901cac9e.png">
+<!--   ![image](https://github.com/Rohith766/Zomato-Bangalore-Restaurants-Data-Analysis/assets/92597090/0c77db3a-65b7-4772-ac63-f3dc901cac9e) -->
 
 # Project-Overview
 The main goal of this project is to perform Exploratory Data Analysis on the Zomato Companies Bangalore Restaurants dataset. By analyzing the dataset, we aim to determine the best location to construct a hotel, the type of hotel that would be most suitable, and the cuisines that can be served to cater to the target audience.
